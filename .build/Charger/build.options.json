@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "D:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.avr-gcc.path=D:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude.path=D:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=D:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:atmega8_8M:cpu=atmega8",
+  "hardwareFolders": "D:\\Program Files (x86)\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\T\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10600",
+  "sketchLocation": "c:\\Users\\T\\Desktop\\Charger\\Charger.ino",
+  "toolsFolders": "D:\\Program Files (x86)\\Arduino\\tools-builder,D:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr"
+}
